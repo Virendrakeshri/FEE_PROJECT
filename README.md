@@ -2,8 +2,6 @@
 
 Task Manager App 
 
-![Home](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/849ce10c-5f33-4c51-af3b-6702db843287)
-
 
 
 This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports filter operations within the task table.
@@ -64,13 +62,5 @@ This web application is designed to help you manage your tasks effectively. It's
 5. Filter:
 
   * Use the filter options to show only complete, pending, or all tasks.
-
-
-# Screenshots
-
-![Tasks](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/d6c9c2e5-4c63-4eae-b4a6-9dd869b72e8e)
-
-
-![view](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/8d514274-3590-4fce-9821-cc76c43081b3)
 
 
