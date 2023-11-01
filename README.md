@@ -1,35 +1,76 @@
+# FEE_Project
 
-# Task Manager
+Task Manager App 
 
-This Task Manager is a web application designed to help users organize and manage their tasks efficiently. It's built using HTML, CSS, and JavaScript.
+![Home](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/849ce10c-5f33-4c51-af3b-6702db843287)
 
-## Features
 
-- **Task Creation:** Add tasks with titles, descriptions, due dates, and other relevant details.
-- **Task Listing:** Display all the tasks in a structured and organized manner.
-- **Task Status Update:** Mark tasks as completed or delete them.
 
-## Technologies Used
+This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports filter operations within the task table.
 
-- HTML
-- CSS
-- JavaScript
+# Features
 
-## Installation
+* Create Task: Add new tasks with a title, description, and due date.
 
-1. **Clone Repository:** `git clone https://github.com/Virendrakeshri/Task_Manager.git`
-2. **Navigate:** `cd Task_Manager`
-3. **Open:** Open `Home.html` in your web browser.
+* Edit Task: Modify existing tasks to update their title, description, or due date.
 
-## Usage
+* Change Task Status: Mark tasks as complete or pending to keep track of their progress.
 
-1. **Adding a Task:** Click on the "Add Task" button, fill in the details, and click "Save" to add a new task.
-2. **Managing Tasks:** Edit, mark as complete, or delete tasks by using the corresponding buttons.
+* Delete Task: Remove tasks that are no longer needed.
 
-## Contributing
+* Search: Quickly find tasks by searching for keywords.
 
-Contributions are welcome! Feel free to fork the repository and create a pull request with your improvements.
+* Filter: Filter tasks based on their status (complete/pending) or other attributes.
 
-## Credits
+* Sort: Sort tasks by due date, status, or any other relevant criteria.
 
-This project was created by Virendra Keshri.
+ # Technologies Used
+* HTML: Markup language used for structuring the web app's content.
+
+* CSS: Stylesheets to enhance the app's visual appearance and layout.
+
+* JavaScript: Programming language used to add interactivity and dynamic behavior.
+
+* Bootstrap: CSS framework for responsive and mobile-first design.
+
+# Getting Started
+- Clone the repository: git clone https://github.com/MADHAVBANSAL0831/FEE_Project
+
+- Navigate to the project directory: cd Task-Manager-main
+
+- Open Home.html in your web browser to access the app.
+
+# Usage
+1. Add Task:
+
+  * Click the "Add Task" button.
+  * Fill in the task details: title, description, and due date.
+  * Click "Save" to add the task.
+
+2. Edit Task:
+
+  * Click the Field in the task you want to modify.
+  * Update the task details.
+
+3. Change Task Status:
+
+  * Click the "Complete" button next to a task to toggle its status.
+
+  
+4. Delete Task:
+
+  * Click the "Delete" button next to a task to remove it from the list.
+
+5. Filter:
+
+  * Use the filter options to show only complete, pending, or all tasks.
+
+
+# Screenshots
+
+![Tasks](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/d6c9c2e5-4c63-4eae-b4a6-9dd869b72e8e)
+
+
+![view](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/8d514274-3590-4fce-9821-cc76c43081b3)
+
+
