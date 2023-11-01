@@ -34,7 +34,7 @@ This web application is designed to help you manage your tasks effectively. It's
 # Getting Started
 - Clone the repository: git clone https://github.com/Virendrakeshri/Task_Manager
 
-- Navigate to the project directory: cd Task-Manager-main
+- Navigate to the project directory: cd Task-Manager
 
 - Open Home.html in your web browser to access the app.
 
